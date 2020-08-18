@@ -1,30 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 ,Canal 24 Horas 
-
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 #EXTINF:-1,ESTRENOS: Sandy Wexler (2017)
 http://bit.ly/MRAQCSAND
-#EXTINF:-1,ESTRENOS: THE MINE (2017)
-http://bit.ly/THEMINE
 #EXTINF:-1,La Xarxa | SD
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 #EXTINF:-1,M2O TV Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,Varias Lat:Colossal
 http://ow.ly/FXZ930eWtrs
-#EXTINF:-1,EL MAL ADENTRO(2017)
-http://bit.ly/EVILWITHIN_MOVIE
 #EXTINF:-1,LA BELLA DURMIENTE (CLASICA)
 http://bit.ly/LABELLAMOVIE
-#EXTINF:-1,MASCOTA HUMANA (2016)
-http://bit.ly/MASCOTAHUMANA
 #EXTINF:-1,CASTILLO DE ARENA (2017)
 http://bit.ly/MRAQCASTI
-#EXTINF:-1,CHUKY EL MUNHECO DIABOLICO (TERROR)
-http://bit.ly/MRAQCCHUCK
 #EXTINF:-1,COLOSSAL (2016)
 http://bit.ly/2w5zZIw
 #EXTINF:-1,MI VIDA A LOS 17
@@ -73,12 +62,10 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1,CINE Y SERIES:Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,Guardianes de la Galaxia | SRREGIO.NET
+#EXTINF:-1,Guardianes de la Galaxia
 https://goo.gl/sFaEVq
 #EXTINF:-1,Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-#EXTINF:-1,Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:-1,Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1,Capital 21 Mexico City
@@ -323,8 +310,6 @@ https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 #EXTINF:-1,La Forma del Agua SUBTITULADO | REGIOFLIX
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
-#EXTINF:-1,Nosotros Los Nobles | REGIOFLIX
-https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTINF:-1,The Cloverfield Paradox | REGIOFLIX
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 #EXTINF:-1,Terminus | REGIOFLIX
@@ -397,8 +382,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,Capital 21 Mexico City
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1,Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1,Azteca Uno
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1,CAPITAL 21 CDMX
